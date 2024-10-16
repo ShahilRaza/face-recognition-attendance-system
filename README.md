@@ -1,4 +1,4 @@
-#Face Recognition Attendance System
+# Face Recognition Attendance System
 Overview
 This project is a Face Recognition-based Attendance System that automates the process of recording student attendance by detecting faces through a camera. The system uses Python, Flask, OpenCV, and React.js to create an efficient, user-friendly platform. Student faces are recognized in real-time using OpenCV, and their attendance is stored in a CSV file. The system provides a web interface for admins and students to interact with
 
