@@ -12,19 +12,19 @@ Back-End: Powered by Flask with APIs for student data management and attendance 
 
 # Technologies Used:
    # Python: 
-     For the backend logic and integration of OpenCV and Flask.
+   For the backend logic and integration of OpenCV and Flask.
    # Flask:
-     To create a RESTful API for managing students, attendance records, and communication between the front-end and back-end.
+   To create a RESTful API for managing students, attendance records, and communication between the front-end and back-end.
    # OpenCV: 
-     For image processing and face recognition.
+   For image processing and face recognition.
    # React.js: 
-     For building the front-end interface.
+   For building the front-end interface.
    # SQLAlchemy: 
-     To manage student data and attendance.
+   To manage student data and attendance.
    # CSV: 
-     Used to store attendance records.
+   Used to store attendance records.
    # PostgreSQL (optional):
-    For storing student information (if using a relational database).
+   For storing student information (if using a relational database).
 
 # Workflow:
  # Student Registration:
