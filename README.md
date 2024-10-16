@@ -2,7 +2,7 @@
 Overview
 This project is a Face Recognition-based Attendance System that automates the process of recording student attendance by detecting faces through a camera. The system uses Python, Flask, OpenCV, and React.js to create an efficient, user-friendly platform. Student faces are recognized in real-time using OpenCV, and their attendance is stored in a CSV file. The system provides a web interface for admins and students to interact with
 
-Features:
+# Features:
 Real-time Face Recognition: Uses OpenCV to detect and recognize students' faces via a live camera feed.
 Attendance Recording: Automatically records attendance based on face recognition and stores it in a CSV file.
 Admin Panel: Admins can manage student profiles, including uploading photos and viewing/editing attendance records.
@@ -10,7 +10,7 @@ Student Profile: Students can view their own profiles and attendance history.
 Front-End: Developed using React.js for creating dynamic and responsive web pages.
 Back-End: Powered by Flask with APIs for student data management and attendance processing.
 
-Technologies Used:
+# Technologies Used:
 Python: For the backend logic and integration of OpenCV and Flask.
 Flask: To create a RESTful API for managing students, attendance records, and communication between the front-end and back-end.
 OpenCV: For image processing and face recognition.
@@ -19,8 +19,8 @@ SQLAlchemy: To manage student data and attendance.
 CSV: Used to store attendance records.
 PostgreSQL (optional): For storing student information (if using a relational database).
 
-Workflow:
-Student Registration:
+# Workflow:
+ # Student Registration:
 
 Admins upload student details and photos to the system.
 Student photos are used to train the face recognition model.
