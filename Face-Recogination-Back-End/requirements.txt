@@ -1,0 +1,8 @@
+Flask
+psycopg2
+SQLAlchemy
+Flask-SQLAlchemy
+opencv-python
+Flask-WTF
+Werkzeug
+face-recognition
